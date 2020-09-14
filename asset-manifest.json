@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suryan535/LoginPage/static/css/main.a91e0d57.chunk.css",
+    "main.js": "/suryan535/LoginPage/static/js/main.d2b13771.chunk.js",
+    "main.js.map": "/suryan535/LoginPage/static/js/main.d2b13771.chunk.js.map",
+    "runtime-main.js": "/suryan535/LoginPage/static/js/runtime-main.e03c0c85.js",
+    "runtime-main.js.map": "/suryan535/LoginPage/static/js/runtime-main.e03c0c85.js.map",
+    "static/js/2.30bd503c.chunk.js": "/suryan535/LoginPage/static/js/2.30bd503c.chunk.js",
+    "static/js/2.30bd503c.chunk.js.map": "/suryan535/LoginPage/static/js/2.30bd503c.chunk.js.map",
+    "index.html": "/suryan535/LoginPage/index.html",
+    "precache-manifest.6c46f2c545951eb146fffc0cc2a927d8.js": "/suryan535/LoginPage/precache-manifest.6c46f2c545951eb146fffc0cc2a927d8.js",
+    "service-worker.js": "/suryan535/LoginPage/service-worker.js",
+    "static/css/main.a91e0d57.chunk.css.map": "/suryan535/LoginPage/static/css/main.a91e0d57.chunk.css.map",
+    "static/js/2.30bd503c.chunk.js.LICENSE.txt": "/suryan535/LoginPage/static/js/2.30bd503c.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/suryan535/LoginPage/static/media/Background2.76d14216.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e03c0c85.js",
+    "static/js/2.30bd503c.chunk.js",
+    "static/css/main.a91e0d57.chunk.css",
+    "static/js/main.d2b13771.chunk.js"
+  ]
+}
